@@ -1,0 +1,9 @@
+pymongo
+pymongo[SVR]
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+-e . (local Package)
